@@ -1,12 +1,6 @@
 # Hangman Game
 
-  +---+
-  |   |
-  O   |
- /|\  |
- / \  |
-      |
-=========
+![image](https://github.com/P4R4D0X-HACKS/thehangman/assets/81650164/f1d71781-0e98-4115-915a-8380c006c180)
 
 ## Description
 
